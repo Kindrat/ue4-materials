@@ -54,4 +54,9 @@
 
 ### Topics
 
-*
+* Ledge climbing [[1]](https://www.youtube.com/watch?v=4yjcwZLQqlE) [[2]](https://www.youtube.com/watch?v=H2xqW7lKkyw)
+[[3]](https://www.youtube.com/watch?v=2vDjzr9EvUc) [[4]](https://www.youtube.com/watch?v=fLLKgc0LDqc)
+[[5]](https://www.youtube.com/watch?v=ABgcv21uivU)
+* Cover system [[1]](https://www.youtube.com/watch?v=TzL7YDEPej0) [[2]](https://www.youtube.com/watch?v=efKH9ugTzLM)
+[[3]](https://www.youtube.com/watch?v=-oGDDIbvQ1c) [[4]](https://www.youtube.com/watch?v=wMRxw6aM45k)
+* [3 Layer Blended Material](https://www.youtube.com/watch?v=w8ivZCiaepw) 
