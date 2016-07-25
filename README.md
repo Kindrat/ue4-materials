@@ -60,3 +60,6 @@
 * Cover system [[1]](https://www.youtube.com/watch?v=TzL7YDEPej0) [[2]](https://www.youtube.com/watch?v=efKH9ugTzLM)
 [[3]](https://www.youtube.com/watch?v=-oGDDIbvQ1c) [[4]](https://www.youtube.com/watch?v=wMRxw6aM45k)
 * [3 Layer Blended Material](https://www.youtube.com/watch?v=w8ivZCiaepw) 
+
+### Generic gamedev tutorials
+* [Расширенный текстуринг под мобильные устройства](https://www.youtube.com/watch?v=BSdJfPFAX8s)
